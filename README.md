@@ -34,12 +34,12 @@ This quickstart provides an easy way to initiate a Django project using Docker. 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/godd0t/django-docker-quickstart.git
+    git clone https://github.com/gru-lucy/django-starter-kit.git
     ```
 
 2. **Change directory into the project:**
     ```bash
-    cd django-docker-quickstart
+    cd django-starter-kit
     ```
 
 3. **Copy the `env.example` file to `.env` and update the values as needed:**  
